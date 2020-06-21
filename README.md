@@ -3,4 +3,4 @@ bash-script-for-FW-log-and-mail
 
 crontab -e
 
-*/30 * * * * /root/final-sc-for-fw.sh
+*/30 * * * * /root/automation-script.sh
